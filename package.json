@@ -1,5 +1,11 @@
 {
   "name": "pos",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@material/typography": "^0.41.0",
+    "@rails/webpacker": "3.5"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
 }
